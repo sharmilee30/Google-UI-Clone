@@ -1,0 +1,95 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.topbar{
+    margin-left: 75%;
+    display: flex;
+    position: absolute;
+}
+
+.profilepic{
+    width: 40px;
+    border-radius: 20px;
+    position: relative;
+    margin-left: 130%;
+    top: 5px;
+}
+.gimg{
+    width:20% ;
+    padding-left: 40%;
+    padding-top: 5%;
+}
+.sbar{
+width: 40%;
+padding: 10px;
+border-radius: 19px;
+margin-left: 30%;
+border: 1px solid lightgray;
+}
+.simg{
+width: 5%;
+padding: 1%;
+border-radius:100px;
+border: 1px solid lightgray;
+}
+.searchbuttons{
+margin-left: 40%;
+margin-top: 30px;
+}
+.first{
+    border-radius: 5px;
+    border: none;
+    width: 20%;
+    padding: 10px;
+    background-color: rgb(247, 243, 243);
+}
+.first:hover{
+box-shadow: 0 1px 1px 0 rgba(0,0,0,0.24), 0 1px 1px 0 rgba(0,0,0,0.19);
+border-color: grey;
+border-width: 2px;
+}
+.lowerbar{
+background-color: rgb(243, 243, 243);
+margin-top: 18%;
+padding-bottom: 2%;
+width: 103%;
+margin-left: -2% !important;
+
+}
+.lowerbar1{
+    padding-top: 0.1%;
+    border-bottom: 1px solid rgb(197, 195, 195);
+}
+.lowerbar3{
+    display: flex;
+    margin-left: 40%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lowerbar2{
+    display: flex;
+}
